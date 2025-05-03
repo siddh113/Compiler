@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\syntaticanalysis\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\syntaticanalysis\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\semanticanalysis\\typechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semanticanalysis\\typechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\nodes\\terminalnodes\\identifiernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\nodes\\terminalnodes\\identifiernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\semanticanalysis\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semanticanalysis\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\io\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\io\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|c:\\users\\siddharth\\downloads\\minitrianglecompiler\\completetrianglecompiler\\compiler\\io\\errorreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA87512-F6A5-4B7F-89BB-2C2694C2490D}|Compiler\\Compiler.csproj|solutionrelative:compiler\\io\\errorreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentifierNode.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\Nodes\\TerminalNodes\\IdentifierNode.cs",
+              "RelativeDocumentMoniker": "Compiler\\Nodes\\TerminalNodes\\IdentifierNode.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\Nodes\\TerminalNodes\\IdentifierNode.cs",
+              "RelativeToolTip": "Compiler\\Nodes\\TerminalNodes\\IdentifierNode.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:51:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SemanticAnalysis\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "Compiler\\SemanticAnalysis\\SymbolTable.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SemanticAnalysis\\SymbolTable.cs",
+              "RelativeToolTip": "Compiler\\SemanticAnalysis\\SymbolTable.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwGQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:48:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SyntaticAnalysis\\Parser.cs",
+              "RelativeDocumentMoniker": "Compiler\\SyntaticAnalysis\\Parser.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SyntaticAnalysis\\Parser.cs",
+              "RelativeToolTip": "Compiler\\SyntaticAnalysis\\Parser.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAwwPUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:47:47.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\IO\\FileReader.cs",
+              "RelativeDocumentMoniker": "Compiler\\IO\\FileReader.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\IO\\FileReader.cs",
+              "RelativeToolTip": "Compiler\\IO\\FileReader.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:57:00.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorReporter.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\IO\\ErrorReporter.cs",
+              "RelativeDocumentMoniker": "Compiler\\IO\\ErrorReporter.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\IO\\ErrorReporter.cs",
+              "RelativeToolTip": "Compiler\\IO\\ErrorReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:56:36.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SemanticAnalysis\\TypeChecker.cs",
+              "RelativeDocumentMoniker": "Compiler\\SemanticAnalysis\\TypeChecker.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\SemanticAnalysis\\TypeChecker.cs",
+              "RelativeToolTip": "Compiler\\SemanticAnalysis\\TypeChecker.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAIAwwMsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:16:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\Compiler.cs",
+              "RelativeDocumentMoniker": "Compiler\\Compiler.cs",
+              "ToolTip": "C:\\Users\\Siddharth\\Downloads\\MiniTriangleCompiler\\CompleteTriangleCompiler\\Compiler\\Compiler.cs",
+              "RelativeToolTip": "Compiler\\Compiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:43:52.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
